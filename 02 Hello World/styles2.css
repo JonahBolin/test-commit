@@ -1,0 +1,22 @@
+h1 {
+    font-family: Arial;
+    font-size: 100px;
+    text-align: center;
+}
+
+.paragraf {
+    font-family: Georgia;
+    font-size: 50px;
+    text-align: center;
+}
+
+img {
+    border: 10px solid skyblue;
+    /* antingen funkar text-align: center; eller display: block; för <img */
+    display: block;
+    margin: auto;
+}
+
+#länk {
+    color: skyblue;
+}
